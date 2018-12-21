@@ -1,5 +1,5 @@
 function [accel] = skydiving_accel(x, v, Cd, A, m)
-%unction [accel] = skydiving_accel(x, v, Cd, A, m)
+%function [accel] = skydiving_accel(x, v, Cd, A, m)
 %Calculate acceleration for a given altitude and velocity
 %Inputs:
 %   x: position
